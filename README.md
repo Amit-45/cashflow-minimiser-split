@@ -1,8 +1,17 @@
 # Cashflow Minimiser Splitwise
+<img width="1427" alt="Screenshot 2023-06-26 at 11 09 52 AM" src="https://github.com/Amit-45/cashflow-minimiser-split/assets/77204104/f2a754aa-d667-46b0-ba58-a7bd17071aff">
+
+
+
+
 
 The project is live !!! 
 
 👉🏻 [Click here](https://cashflow-minimiser-split-mz6gtvtll-amit-45.vercel.app)
+
+
+
+
 
 
 ## Description
