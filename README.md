@@ -43,21 +43,3 @@ The Splitwise Cashflow Minimization Algorithm has been implemented using the fol
 https://github.com/Amit-45/cashflow-minimiser-split/assets/77204104/b15bf391-8bcb-420a-a2a0-13f6298921d5
 
 
-
-## Additional Details 
-
-The Splitwise Cashflow Minimization Algorithm aims to simplify financial transactions and reduce the complexity of settling debts among a group of individuals. By employing a greedy approach and utilizing various data structures such as heaps and graphs, the algorithm provides an efficient solution to minimize the cash flow.
-
-The algorithm's user interface is designed using HTML, CSS, and JavaScript, creating an appealing and interactive environment for users to input their financial transactions and observe the minimized cash flow. With the help of PHP on the server-side, the algorithm processes the input data and performs the necessary calculations to determine the optimal settlement of debts.
-
-🔹 The Splitwise Cashflow Minimization Algorithm optimizes the settlement process, reducing the number of transactions required.
-
-🔹 By employing a greedy approach, the algorithm settles debts starting from the person with the maximum outstanding debt.
-
-🔹 The algorithm utilizes a heap data structure to efficiently select the person with the maximum debt in each iteration.
-
-🔹 Graph-based representation helps visualize the financial relationships between individuals and identify unnecessary cash flow.
-
-🔹 HTML, CSS, JavaScript, and PHP are used to develop the algorithm's user interface and handle data processing.
-
-🔹 The algorithm's demo provides a practical example of how the Splitwise Cashflow Minimization Algorithm works.
